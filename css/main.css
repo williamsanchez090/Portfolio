@@ -2717,6 +2717,15 @@ footer .copyright span:last-child::after {
   color: #ff0077;
 }
 .white {
-  color: white;
+  color: #ff0077;
+  text-align: center;
 }
 /*# sourceMappingURL=main.css.map */
+.CENTER,
+footer.CENTER,
+.col-four .CENTER {
+  text-align: center;
+}
+#moveNow .CENTER {
+  text-align: center;
+}
